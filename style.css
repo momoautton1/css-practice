@@ -1,6 +1,14 @@
 body {
   background-color: lightblue;
 }
-p {
-  color: purple;
-}
+p 
+  {font-size: x-large; color: red
+  }
+ 
+ 
+  {font-family: helvetica;}
+ 
+  div {
+    border: dashed-red;
+    border-radius: 50%;
+  }
